@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pusiater.github.io/sitemap.html.gz
+Sitemap: https://pusiater.github.io/app/sitemap.html.gz
+Sitemap: https://pusiater.github.io/assets/sitemap.html.gz
+Sitemap: https://pusiater.github.io/css/sitemap.html.gz
+Sitemap: https://pusiater.github.io/includes/sitemap.html.gz
+Sitemap: https://pusiater.github.io/item/sitemap.html.gz
+Sitemap: https://pusiater.github.io/src/sitemap.html.gz
